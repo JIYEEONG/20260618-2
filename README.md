@@ -12,3 +12,6 @@
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
+
+## 링크
+https://laughing-disco-pjw4r4wpxvxwh7qx-8501.app.github.dev/
